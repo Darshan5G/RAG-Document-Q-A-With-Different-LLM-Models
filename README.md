@@ -10,9 +10,9 @@ Key Features:
 - Context-aware Q&A based on uploaded documents.
 
 
-## *Process Steps*
+### #Process Steps#
 
-### *1. Setup and Dependencies*
+## 1. Setup and Dependencies
 1. Install the required dependencies:
    bash
    pip install streamlit langchain langchain_community langchain_huggingface langchain_groq python-dotenv
